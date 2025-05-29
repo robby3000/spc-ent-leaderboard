@@ -1,2 +1,2 @@
 # spc-ent-leaderboard
-leaderboard for Space Entropy Deense game
+leaderboard for Space Entropy Defense game
