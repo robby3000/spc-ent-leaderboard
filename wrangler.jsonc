@@ -9,6 +9,9 @@
 	"compatibility_date": "2025-05-29",
 	"observability": {
 		"enabled": true
+	},
+	"vars": {
+		"UPSTASH_REDIS_REST_URL": "https://primary-prawn-42959.upstash.io"
 	}
 	/**
 	 * Smart Placement
